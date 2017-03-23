@@ -1,5 +1,5 @@
 {
-  "name": "react youtube player",
+  "name": "react-youtube-player",
   "version": "1.0.0",
   "description": "Simple youtube player with React and Babel support",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "Niall Maher",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
